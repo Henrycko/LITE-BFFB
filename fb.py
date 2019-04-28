@@ -9,7 +9,7 @@ print "\033[92m|______________________________________________|
 print "\033[92m|          » FACEBOOK CRACKER v1.1 «           |
 print "\033[92m|______________________________________________|
 
-print "\033[92m  【!】 Pastikan Wordlist bernama pass.txt 【!】
+print "\033[92m   [!] Pastikan Wordlist bernama pass.txt [!]
 
 email = raw_input('email >')
 url = 'https://free.facebook.com/login.php?login_attempt=1'
