@@ -1,9 +1,11 @@
 import requests
 import sys
 
-print "\033[92m===================================
-print "\033[92m==   BRUTE FORCE FACEBOOK v1.1   ==          
-print "\033[92m===================================
+print "\033[92m=================================
+print "\033[92m==  BRUTE FORCE FACEBOOK v1.1  ==
+print "\033[92m=================================
+print "\033[92m==   Authors : Henrycko        ==        
+print "\033[92m=================================
 
 print "\033[92m   [!] Pastikan Wordlist bernama pass.txt [!]
 
